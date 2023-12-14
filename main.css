@@ -56,17 +56,14 @@ justify-content: space-between;
 section .container {
     align-items: flex-start;
 }
- 
+
 section {
     padding: 24px 0;
+    color: #182c61;
 }
 
 section h2 {
     margin-bottom: 16px;
-}
-
-section {
-    color: #182c61;
 }
 
 section p {
@@ -75,5 +72,9 @@ section p {
 }
 
 store-front{
+    margin-right: 32px;
+}
+
+.store-front {
     margin-right: 32px;
 }
